@@ -25,5 +25,5 @@ yarn-error.log*
 # other
 *.d.ts
 *.lock
-yarn.lock
+package-lock.json
 setupTests.ts
