@@ -1,0 +1,31 @@
+body {
+  padding: 16px;
+  margin: 0;
+}
+
+.open span {
+  transform: rotate(0deg);
+}
+
+.zip,
+.rar {
+  background-image: url("/assets/icon-zip.png");
+  background-size: cover;
+}
+
+.jpg,
+.jpeg,
+.png,
+.svg {
+  background-image: url("/assets/icon-image.png");
+  background-size: cover;
+}
+
+.epub,
+.fb2,
+.mobi,
+.doc,
+.rtf {
+  background-image: url("/assets/icon-book.png");
+  background-size: cover;
+}
